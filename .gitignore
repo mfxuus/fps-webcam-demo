@@ -1,3 +1,9 @@
+# Project specific
+/cam_stream
+/intermediate_images
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
